@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ArDec"]
+	path = ArDec
+	url = https://github.com/cran/ArDec
+	shallow = true
+	registered = true
